@@ -36,3 +36,15 @@ a {
     display: flex;
     align-items: center;
 }
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+}
+
+
+#filter-button {
+    height: 20px;
+}
